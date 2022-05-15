@@ -43,3 +43,6 @@ Use Flask to create your routes, as follows:
     - Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a given start or start-end range.
     - When given the start only, calculate TMIN, TAVG, and TMAX for all dates greater than or equal to the start date.
     - When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates from the start date through the end date (inclusive).
+
+## Flask Analysis
+  Flask Analysis is included in the app.py file.
